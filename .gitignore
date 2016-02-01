@@ -1,0 +1,13 @@
+# Node files
+/node_modules/
+npm-debug.log
+
+# Bootstrapper dependencies
+/bower_components
+/libraries/nuget/*/
+
+# Bower file
+/output/bower.json
+
+# Git conflict files
+*.orig
